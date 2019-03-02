@@ -5,7 +5,7 @@
 ## Vous trouverez ici la notice d'explication du fonctionnement de notre catalogue :
 
 Ce catalogue réalisé grâce a PHP et HTML, permet à l'utilisateur d'ajouter, de modifier et de supprimer des éléments directement depuis le catalogue, sans modifier le code.
-## Il à été réalisé dans le cadre de notre projet fil rouge par Bastien Mantès, Lucas Mantoani et Amélie Barthel.
+## Il à été réalisé dans le cadre de notre projet fil rouge par Lucas Mantoani, Bastien Mantès et Amélie Barthel.
 
 ## Accueil
 
@@ -18,4 +18,4 @@ Une fois sur cette page, vous aurez la possibilité de modifier la fiche du jeu 
 ## Catégories
 
 * A droite de "Catalogue" dans le menu, il y'a Catégories :
-+ Il s'agit d'un menu déroulant listant les catégories de jeux par console, en cliquant sur une catégorie, vous affichez donc uniquement les jeux contenus dans celle-ci, ce qui permet de faire une recherche plus ciblée dans le catalogue. .
++ Il s'agit d'un menu déroulant listant les catégories de jeux par console, en cliquant sur une catégorie, vous affichez donc uniquement les jeux contenus dans celle-ci, ce qui permet de faire une recherche plus ciblée dans le catalogue.
