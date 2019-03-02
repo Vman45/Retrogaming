@@ -3,18 +3,15 @@ h2
 	text-align: center;
 	color: orange;
 }
-
 input
 {
 	font-size: 15px;
 }
-
 textarea
 {
 	width: 400px;
 	height: 100px;
 }
-
 .formulaire
 	{
 		display: flex;
