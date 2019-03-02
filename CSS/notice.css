@@ -1,0 +1,39 @@
+body{
+    background-image: url("../images/fond.jpg");
+}
+
+h1,h2 {
+    color: orange;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+
+h2
+{
+    font-size: 25px;
+}
+
+p{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+<<<<<<< HEAD:CSS/notice_lucas.css
+    color: white;
+    text-shadow: 3px 2px 2px black;
+=======
+    color: black;
+    text-shadow: 1px 1px 1px orange;
+>>>>>>> efa30c3b08c0fadd8d8a16f2fb08bab56e6f678a:CSS/notice.css
+}
+.auteurs {
+    text-align: left;
+    font-weight: bolder;
+    color : orange;
+    text-shadow: 1px 1px 1px black;
+}
+.fil_rouge {
+    text-align: left;
+    font-weight: bolder;
+    color : red;
+    text-shadow: 1px 1px 1px black;
+}
